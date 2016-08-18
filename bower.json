@@ -1,0 +1,17 @@
+{
+    "name": "koulen-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Danh Hong"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/koulen-bower.git"
+    },
+    "description": "Koulen font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
